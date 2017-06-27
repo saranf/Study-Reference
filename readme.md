@@ -14,7 +14,7 @@
    == 드래그 드롭 API
 
 > ### SDK
->* https://developers-kr.googleblog.com/2017/06/open-sourcing-firebase-sdks.html 
+>* https://developers-kr.googleblog.com/2017/06/open-sourcing-firebase-sdks.html
 == firebase sdk
 
 ## 영상(스트리밍)
@@ -46,5 +46,7 @@
  ### 개발 입문에 도움되는 사이트들
  * http://asfirstalways.tistory.com/153
  == 개발 입문에 도움되는 사이트들 잘 정리됨
+ * https://okky.kr/article/395414
+ == 초보 개발자들을 위한 추천도서
 
   ``` 상자로 만들기```
