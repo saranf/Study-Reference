@@ -7,6 +7,11 @@
  ### JavaScript
  * [문법기초](https://developer.mozilla.org/ko/docs/Web/JavaScript)
  * [공부하기 괜찮은(?) 사이트 모음](http://bonsaiden.github.io/JavaScript-Garden/ko/?utm_content=bufferb369a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+ ### php
+ * [php 마이그래이션 php5.3](http://php.net/manual/en/migration53.php)
+ * [php 마이그래이션 php 5.3 ](http://php.net/manual/en/migration56.deprecated.php)
+ * [php 마이그래이션 php5.6 ](http://php.net/manual/en/migration53.deprecated.php)
 ## 오픈소스
  >### API
  > * [api가 뭔가요?(비개발자용)](https://brunch.co.kr/@cysstory/115)
@@ -58,6 +63,8 @@
  * [라즈베리파이용 채팅 서버 만들기](http://blog.naver.com/tipsware/221012372634)
  * [v4l 스트리밍 서버 설치하기](http://blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=220789812263&categoryNo=0&parentCategoryNo=56&viewDate=&currentPage=1&postListTopCurrentPage=1&from=section)
 * [uv4l 공식 홈페이지(영문)](http://www.linux-projects.org/)
+* [라즈베리파이 카메라 사용하기](https://kocoafab.cc/tutorial/view/334)
 
-
+ ### centos6
+ * [CentOS6 APM 설치 yum으로 간단 해결](http://netfree.tistory.com/entry/CentOS6-APM-%EC%84%A4%EC%B9%98-yum%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8-%ED%95%B4%EA%B2%B0)
   ``` 상자로 만들기```
