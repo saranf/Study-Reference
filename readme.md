@@ -64,7 +64,7 @@
  * [v4l 스트리밍 서버 설치하기](http://blog.naver.com/PostView.nhn?blogId=cosmosjs&logNo=220789812263&categoryNo=0&parentCategoryNo=56&viewDate=&currentPage=1&postListTopCurrentPage=1&from=section)
 * [uv4l 공식 홈페이지(영문)](http://www.linux-projects.org/)
 * [라즈베리파이 카메라 사용하기](https://kocoafab.cc/tutorial/view/334)
-
+* [라즈베리파이 프로젝트 10개](http://www.itworld.co.kr/slideshow/92451)
  ### centos6
  * [CentOS6 APM 설치 yum으로 간단 해결](http://netfree.tistory.com/entry/CentOS6-APM-%EC%84%A4%EC%B9%98-yum%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8-%ED%95%B4%EA%B2%B0)
   ``` 상자로 만들기```
