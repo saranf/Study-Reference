@@ -3,6 +3,7 @@
 ## 웹
  * [mvp와 mvc의 차이](http://blog.canapio.com/92)
  * [비 전공자를 위한 웹개발 기초](https://www.slideshare.net/GihyoJoshuaJang/ss-71210860)
+ * [웹 기초 교재 pdf](https://okky.kr/article/400839)
 
  ### JavaScript
  * [문법기초](https://developer.mozilla.org/ko/docs/Web/JavaScript)
