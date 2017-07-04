@@ -68,4 +68,3 @@
 * [라즈베리파이 프로젝트 10개](http://www.itworld.co.kr/slideshow/92451)
  ### centos6
  * [CentOS6 APM 설치 yum으로 간단 해결](http://netfree.tistory.com/entry/CentOS6-APM-%EC%84%A4%EC%B9%98-yum%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8-%ED%95%B4%EA%B2%B0)
-  ``` 상자로 만들기```
