@@ -13,6 +13,10 @@
  * [php 마이그래이션 php5.3](http://php.net/manual/en/migration53.php)
  * [php 마이그래이션 php 5.3 ](http://php.net/manual/en/migration56.deprecated.php)
  * [php 마이그래이션 php5.6 ](http://php.net/manual/en/migration53.deprecated.php)
+
+ ### 부트스트랩
+ * [3단 드롭다운 메뉴](https://www.w3schools.com/Bootstrap/tryit.asp?filename=trybs_ref_js_dropdown_multilevel_css&stacked=h)
+ * [3단 드롭다운 메뉴2](https://bootsnipp.com/snippets/featured/side-menu-on-hover)
 ## 오픈소스
  >### API
  > * [api가 뭔가요?(비개발자용)](https://brunch.co.kr/@cysstory/115)
@@ -31,6 +35,7 @@
 ## 안드로이드
  * [일단 시작하는 코틀린(기초)](https://www.slideshare.net/parkjoongsoo1/ss-58654366)
  * [GIF로 '로딩중' Dialog 띄우는 방법](http://gun0912.tistory.com/72)
+ * [구글 i/o 2017 seoul 코틀린 발표자료](https://www.slideshare.net/jyte/kotlin-lets-make-android-great-again)
 ## 그외
  ### java
 
@@ -66,5 +71,10 @@
 * [uv4l 공식 홈페이지(영문)](http://www.linux-projects.org/)
 * [라즈베리파이 카메라 사용하기](https://kocoafab.cc/tutorial/view/334)
 * [라즈베리파이 프로젝트 10개](http://www.itworld.co.kr/slideshow/92451)
+* [라즈베리파이 motion 동작](https://pimylifeup.com/raspberry-pi-webcam-server/)
+* [라즈베리파이 얼굴인식 서비스 만들기](https://www.slideshare.net/awskorea/raspberypi-serverless-ai-service)
  ### centos6
  * [CentOS6 APM 설치 yum으로 간단 해결](http://netfree.tistory.com/entry/CentOS6-APM-%EC%84%A4%EC%B9%98-yum%EC%9C%BC%EB%A1%9C-%EA%B0%84%EB%8B%A8-%ED%95%B4%EA%B2%B0)
+
+ ### SQL
+ * [SQL tutorial](https://www.w3schools.com/sql/)
