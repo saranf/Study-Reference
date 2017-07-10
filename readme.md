@@ -4,6 +4,7 @@
  1. [mvp와 mvc의 차이](http://blog.canapio.com/92)
  2. [비 전공자를 위한 웹개발 기초](https://www.slideshare.net/GihyoJoshuaJang/ss-71210860)
  3. [웹 기초 교재 pdf](https://okky.kr/article/400839)
+ 4. [ui 기초](http://goodui.org/)
 
  ### JavaScript
  1. [문법기초](https://developer.mozilla.org/ko/docs/Web/JavaScript)
@@ -14,6 +15,7 @@
  2. [php 마이그래이션 php 5.3 ](http://php.net/manual/en/migration56.deprecated.php)
  3. [php 마이그래이션 php5.6 ](http://php.net/manual/en/migration53.deprecated.php)
  4. [mysql 함수목록](http://php.net/manual/kr/ref.mysql.php)
+ 5. [php를 이용한 pdf문서 만들기](http://dev.meye.net/entry/PHP%EC%97%90%EC%84%9C-PDF-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
  ### 부트스트랩
  1. [3단 드롭다운 메뉴](https://www.w3schools.com/Bootstrap/tryit.asp?filename=trybs_ref_js_dropdown_multilevel_css&stacked=h)
