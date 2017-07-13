@@ -16,6 +16,7 @@
  3. [php 마이그래이션 php5.6 ](http://php.net/manual/en/migration53.deprecated.php)
  4. [mysql 함수목록](http://php.net/manual/kr/ref.mysql.php)
  5. [php를 이용한 pdf문서 만들기](http://dev.meye.net/entry/PHP%EC%97%90%EC%84%9C-PDF-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
+ 6. [php include_once사용법](http://php.net/manual/kr/function.include-once.php)
 
  ### 부트스트랩
  1. [3단 드롭다운 메뉴](https://www.w3schools.com/Bootstrap/tryit.asp?filename=trybs_ref_js_dropdown_multilevel_css&stacked=h)
