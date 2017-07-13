@@ -82,6 +82,7 @@
 
  ### SQL
  1. [SQL tutorial](https://www.w3schools.com/sql/)
+ 2. [SQL inner-join outer-join 차이점](http://egloos.zum.com/darky/v/1230443)
 
 
  ### 기타
