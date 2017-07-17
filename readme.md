@@ -84,6 +84,9 @@
  1. [SQL tutorial](https://www.w3schools.com/sql/)
  2. [SQL inner-join outer-join 차이점](http://egloos.zum.com/darky/v/1230443)
 
+ ### 리눅스 명령어
+ 1. [Ctag 사용법](http://bowbowbow.tistory.com/15)
+
 
  ### 기타
  1.[연말정산](https://banksalad.com/contents/89)
