@@ -5,6 +5,7 @@
  2. [비 전공자를 위한 웹개발 기초](https://www.slideshare.net/GihyoJoshuaJang/ss-71210860)
  3. [웹 기초 교재 pdf](https://okky.kr/article/400839)
  4. [ui 기초](http://goodui.org/)
+ 5. [절대경로와 상대경로 ](http://88240.tistory.com/122)
 
  ### JavaScript
  1. [문법기초](https://developer.mozilla.org/ko/docs/Web/JavaScript)
