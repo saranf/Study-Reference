@@ -88,10 +88,11 @@
 
  ### 리눅스 명령어
  1. [Ctag 사용법](http://bowbowbow.tistory.com/15)
+ 2. [selinux 문제 해결법](https://www.linux.co.kr/home2/board/subbs/board.php?bo_table=lecture&wr_id=1731)
 
 
  ### 기타
  1.[연말정산](https://banksalad.com/contents/89)<br>
  ``급여의 25% 이상 사용시 (신용카드 15%, 그 외 30% 공제)
-공제한도 500만원 (신용+체크 300, 전통시장 100, 대중교통 100)``
+공제한도 500만원 (신용+체크 300, 전통시장 100, 대중교통 100)``><br>
 2,[외주 유의점](http://onlinebiz.kr/%EC%99%B8%EC%A3%BC%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4%EC%9C%A0%EC%9D%98%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%A0%90%EC%9D%80/)
